@@ -66,7 +66,6 @@ IDR-project
 │
 ├── index.html
 ├── style.css
-├── logo.svg
 └── README.md
 ```
 
