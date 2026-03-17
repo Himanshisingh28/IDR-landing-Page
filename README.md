@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a simple responsive homepage design for the **Institute of Digital Risk (IDR)**, an industry-led institute focused on training and deploying professionals in digital, cyber, and AI risk management.
+This project is a simple responsive homepage design for the **Institute of Digital Risk ** **IDR**, an industry-led institute focused on training and deploying professionals in digital, cyber, and AI risk management.
 
 The website introduces IDR’s mission, services, and community while maintaining a clean and modern technology-focused design.
 
